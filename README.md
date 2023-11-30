@@ -4,7 +4,7 @@ Spresense Analog Meter Reading Sample using Neural Network Console
 ## Demo
 The demo video below shows measuring temperature and humidity by capturing the thermo-hygrometer. The camera system has two buttons. The upper side button is to measure the temperature meter. The lower side button is to measure the humidity meter.
 
-![Analog Meter Reading](https://github.com/TE-YoshinoriOota/Spresense_Analog_Meter_Reading_Sample/assets/14106176/b97fc4ec-b966-42e5-bde1-1f310c970aff)
+https://github.com/TE-YoshinoriOota/Spresense_Analog_Meter_Reading_Sample/assets/14106176/b97fc4ec-b966-42e5-bde1-1f310c970aff
 
 
 ## How it works
