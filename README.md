@@ -8,7 +8,7 @@ https://github.com/TE-YoshinoriOota/Spresense_Analog_Meter_Reading_Sample/assets
 
 
 ## How it works
-The recognition step has three steps.
+The recognition process has three steps.
 
 **(1) Recognition of axial centers of meters** <br/>
 Capture the thermo-hygrometer and recognize the blue dot or the green dot mark on the thermo-hygrometer. The blue dot must be pasted at the axial center of the temperature meter and the green dot must be pasted at the axial center of the hygrometer. The recognition method is done by binary semantic segmentation that can recognize objects having characteristics of color and shape specified by the dataset.
@@ -46,3 +46,13 @@ After finding the appropriate center, scan the needle area clockwise. When the b
 | displayUtil.ino | LCD display utilities |
 | analog_meter_reading.h | Header file for analog_meter_reading.cpp |
 | analog_meter_reading.cpp | Scanning algorithm for meter needles |
+
+## Hardware Configuration
+The system consists of Spresensee Main Board, Spresense LTE-M Extension Board, Spresense Camera Board, LCD, and Buttons. The connection is shown below.
+
+![image](https://github.com/TE-YoshinoriOota/Spresense_Analog_Meter_Reading_Sample/assets/14106176/21d2d806-7cd3-4e36-be0b-8bf5d27424b1)
+
+
+
+
+
